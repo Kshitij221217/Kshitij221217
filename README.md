@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Kshitij221217
+- 👋 Hi, I’m @Kshitij Rampurkar
+- A boy from Nagpur
+- Like to code
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Machine Learning and Deeplearning
 - 💞️ I’m looking to collaborate on ...
